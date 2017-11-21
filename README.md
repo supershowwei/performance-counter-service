@@ -4,7 +4,7 @@ Host Performance Counter as a Web Service.
 
 ### How to install?
 
-1. Download latest release of PerformanceCounterService.zip. [https://github.com/supershowwei/performance-counter-service/releases](https://github.com/supershowwei/performance-counter-service/releases)
+1. Download latest release of `PerformanceCounterService.zip`. [https://github.com/supershowwei/performance-counter-service/releases](https://github.com/supershowwei/performance-counter-service/releases)
 2. Unzip files to the directory you wanted on target server.
 3. Run `cmd` as Administrator.
 4. Execute `PerformanceCounterService.exe install` to install `PerformanceCounterService` as a Windows Service.

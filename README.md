@@ -11,7 +11,7 @@ Host Performance Counter as a Web Service.
 ![](https://i.imgur.com/9Xq9A5I.png)
 5. Execute `PerformanceCounterService.exe start` to start `PerformanceCounterService`.
 ![](https://i.imgur.com/NE4Vrr1.png)
-6. Add a firewall `Inbound Rule`, default port is 9527. (We can change port number and performance counters in Web.Config.)
+6. Add a firewall `Inbound Rule`, default port is 9527. (We can change port number and performance counters in PerformanceCounterService.exe.config.)
 
 ### How to use?
 
